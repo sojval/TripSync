@@ -32,3 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 .env
+# Spring Boot configuration containing secrets
+src/main/resources/application.propertiesgit rm --cached src/main/resources/application.properties
